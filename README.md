@@ -22,7 +22,7 @@ To get started with this project, follow these steps:
 you can clone the project or download it as Zip file.
  Clone the repository:
    ```bash
-   git clone https://github.com/olahasan/challange-one-tarmeez-academy---callback-Json-Placeholder-API-AJAX
+   git clone https://github.com/olahasan/challange-one-tarmeez-academy---callback-Json-Placeholder-API-AJAX.git
 ```
 
 ## Links
